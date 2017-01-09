@@ -1,0 +1,35 @@
+html {
+  background-image: url('https://images.footballfanatics.com/FFImage/thumb.aspx?i=/productimages/_2168000/ff_2168237_xl.jpg&w=340');
+  background-size: cover;
+}
+body {
+  color: purple;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.nav-links {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0;
+  list-style: none;
+
+}
+
+.nav-link {
+  border: 2px solid purple;
+  display: inline-block;
+  text-align: center;
+  width: auto;
+
+}
+
+.nav-link a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
